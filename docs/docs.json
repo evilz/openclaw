@@ -973,6 +973,7 @@
               "gateway/configuration",
               "gateway/multiple-gateways",
               "gateway/configuration-examples",
+              "gateway/code-map",
               "gateway/authentication",
               "gateway/openai-http-api",
               "gateway/tools-invoke-http-api",
@@ -1004,6 +1005,7 @@
             "group": "Channels",
             "pages": [
               "channels/index",
+              "channels/connectors-code-map",
               "channels/whatsapp",
               "channels/telegram",
               "channels/grammy",
